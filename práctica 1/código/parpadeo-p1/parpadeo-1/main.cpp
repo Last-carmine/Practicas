@@ -1,9 +1,4 @@
-/*
- * GccApplication2.cpp
- *
- * Created: 01/12/2022 08:15:55 a. m.
- * Author : Marti
- */ 
+
 
 #define F_CPU  8000000UL
 #include <avr/io.h>
